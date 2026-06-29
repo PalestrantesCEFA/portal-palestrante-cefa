@@ -18,6 +18,7 @@ body{
     display:block;
     margin:20px auto 40px;
     border-radius:20px;
+    pointer-events: none;
 }
 
 .btn{
