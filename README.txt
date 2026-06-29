@@ -1,0 +1,1 @@
+Adicione banner.jpg e logo.png. Troque o link do botão pelo seu link do Tally.
